@@ -527,18 +527,6 @@ keras/src/layers/core/ternary_dense_test.py::TernaryDenseTest::test_quantize_twi
 keras/src/layers/core/ternary_dense_test.py::TernaryDenseTest::test_quantized_kernel_is_packed_at_floor
 keras/src/layers/core/ternary_dense_test.py::TernaryDenseTest::test_quantized_model_save_load
 keras/src/layers/core/ternary_dense_test.py::TernaryDenseTest::test_save_load_no_bias
-keras/src/ops/nn_test.py::NNOpsCorrectnessTest::test_dot_product_attention_none_1.0_(none, false)_true
-keras/src/ops/nn_test.py::NNOpsCorrectnessTest::test_dot_product_attention_none_1.0_(none, true)_true
-keras/src/ops/nn_test.py::NNOpsCorrectnessTest::test_dot_product_attention_none_1.0_(true, false)_true
-keras/src/ops/nn_test.py::NNOpsCorrectnessTest::test_dot_product_attention_none_none_(none, false)_true
-keras/src/ops/nn_test.py::NNOpsCorrectnessTest::test_dot_product_attention_none_none_(none, true)_true
-keras/src/ops/nn_test.py::NNOpsCorrectnessTest::test_dot_product_attention_none_none_(true, false)_true
-keras/src/ops/nn_test.py::NNOpsCorrectnessTest::test_dot_product_attention_true_1.0_(none, false)_true
-keras/src/ops/nn_test.py::NNOpsCorrectnessTest::test_dot_product_attention_true_1.0_(none, true)_true
-keras/src/ops/nn_test.py::NNOpsCorrectnessTest::test_dot_product_attention_true_1.0_(true, false)_true
-keras/src/ops/nn_test.py::NNOpsCorrectnessTest::test_dot_product_attention_true_none_(none, false)_true
-keras/src/ops/nn_test.py::NNOpsCorrectnessTest::test_dot_product_attention_true_none_(none, true)_true
-keras/src/ops/nn_test.py::NNOpsCorrectnessTest::test_dot_product_attention_true_none_(true, false)_true
 keras/src/ops/numpy_test.py::NumpyDtypeTest::test_absolute_uint16
 keras/src/ops/numpy_test.py::NumpyDtypeTest::test_absolute_uint32
 keras/src/ops/numpy_test.py::NumpyDtypeTest::test_add_('uint16', 'bool')

@@ -978,10 +978,6 @@ def dot_product_attention(
     flash_attention=None,
     attn_logits_soft_cap=None,
 ):
-    if flash_attention:
-        raise ValueError(
-            "Flash attention is not supported in the paddle backend."
-        )
     query = convert_to_tensor(query)
     key = convert_to_tensor(key)
     value = convert_to_tensor(value)
